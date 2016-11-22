@@ -1,0 +1,21 @@
+{
+  "name": "simple-line-icons",
+  "version": "2.2.1",
+  "description": "An unofficial Bootstrap plugin to enable Bootstrap dropdowns to activate on hover and provide a nice user experience.",
+  "main": "./simple-line-icons.css",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "hover",
+    "dropdowns"
+  ],
+  "homepage": "https://github.com/webdevelrichi/simple-line-icons",
+  "dependencies": {
+    "bootstrap": "^3.0.0",
+    "jquery": ">= 1.9.0"
+  },
+  "author": {
+    "name": "Richi ufo",
+    "web": "http://-"
+  }
+}

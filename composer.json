@@ -1,0 +1,33 @@
+{
+  "name": "webdevelrichi/simple-line-icons",
+  "version": "2.2.1",
+  "type": "component",
+  "description": "An unofficial Bootstrap plugin to enable Bootstrap dropdowns to activate on hover and provide a nice user experience.",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "hover",
+    "dropdowns"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "richi ufo",
+      "email": "richi.ufo@gmail.com",
+      "homepage": "http://-",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "components/jquery": ">=1.9",
+    "components/bootstrap": "~3.0"
+  },
+  "extra": {
+    "component": {
+      "name": "simple-line-icons",
+      "files": [
+        "simple-line-icons.css"
+      ]
+    }
+  }
+}

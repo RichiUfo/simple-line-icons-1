@@ -1,0 +1,41 @@
+{
+  "name": "webdevelrichi/simple-line-icons",
+  "version": "2.2.1",
+  "description": "An unofficial Bootstrap plugin to enable Bootstrap dropdowns to activate on hover and provide a nice user experience.",
+  "main": "simple-line-icons.css",
+  "dependencies": {
+    "streamqueue": "^0.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-bump": "^0.1.13",
+    "gulp-filter": "^2.0.0",
+    "gulp-git": "^0.5.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-tag-version": "^1.2.1",
+    "gulp-uglify": "^1.1.0",
+    "streamqueue": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webdevelrichi/simple-line-icons.git"
+  },
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "icons",
+    "simple"
+  ],
+  "author": {
+    "name": "Richi ufo",
+    "url": "https://-"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdevelrichi/simple-line-icons/issues"
+  },
+  "homepage": "https://github.com/webdevelrichi/simple-line-icons"
+}
